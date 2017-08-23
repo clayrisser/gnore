@@ -1,6 +1,6 @@
 from cement.core.foundation import CementApp
 from config import NAME, BANNER
-from controllers import (
+from api.controllers import (
     BaseController,
     CleanController
 )

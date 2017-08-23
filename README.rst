@@ -82,6 +82,10 @@ Credits
 Changelog
 ---------
 
+0.2.0 (2017-08-21)
+-  Beta 2 release
+-  Replaced .gnore with .gitignore comments
+
 0.1.0 (2017-08-21)
 -  Beta release
 

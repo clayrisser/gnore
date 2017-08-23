@@ -2,7 +2,7 @@ NAME = 'gnore'
 
 AUTHOR = 'Jam Risser'
 
-VERSION = '0.1.0'
+VERSION = '0.2.2'
 
 COPYRIGHT = '2017'
 

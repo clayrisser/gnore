@@ -1,10 +1,6 @@
 g'nore *Beta*
 ================
 
-```sh
-git clean -fXd
-```
-
 Utility for .gitignore
 
 "I'm just gonna g'nore you"
@@ -18,6 +14,10 @@ DEPRICATED
 Git has this functionality built in, making this project irrelivent.
 To clean all the files listed in the `.gitignore` file, you can simply
 run the following command.
+
+```sh
+git clean -fXd
+```
 
 Features
 --------

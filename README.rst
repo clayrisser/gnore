@@ -1,13 +1,6 @@
 g'nore *Beta*
 ================
 
-DEPRICATED
-==========
-
-Git has this functionality built in, making this project irrelivent.
-To clean all the files listed in the `.gitignore` file, you can simply
-run the following command.
-
 ```sh
 git clean -fXd
 ```
@@ -19,6 +12,12 @@ Utility for .gitignore
 
 Please ★ this repo if you found it useful ★ ★ ★
 
+DEPRICATED
+==========
+
+Git has this functionality built in, making this project irrelivent.
+To clean all the files listed in the `.gitignore` file, you can simply
+run the following command.
 
 Features
 --------
